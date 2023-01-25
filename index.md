@@ -409,6 +409,9 @@ please preview your site before committing, and make sure to run
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
+<p>
+  Please use this <a href = "https://docs.google.com/document/d/1DzlYu3GDfUAArhM6leCmrdOrBJPqusA_stgpaeHEc5U/edit?usp=sharing">Google Doc</a> during this January 2023 workshop for quick access to links, things to copy/paste, etc.
+</p>
 
 {% comment %}
 For online workshops, the section below provides:
